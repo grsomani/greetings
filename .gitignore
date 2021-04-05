@@ -47,3 +47,8 @@ playground.xcworkspace
 # .swiftpm
 
 .build/
+xcuserdata/
+*.xcodeproj/*
+!*.xcworkspace/contents.xcworkspacedata
+*.xcodeproj/project.pbxproj
+
